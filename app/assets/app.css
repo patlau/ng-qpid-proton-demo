@@ -1,0 +1,17 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-size:14px;
+  height:100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo {
+  background: url(LESSLogo.png) no-repeat scroll center top transparent;
+  height: 250px;
+  width: auto;
+  display: block;
+  transform-origin: 50% 0;
+  transform: scale(0.8);
+}
+
